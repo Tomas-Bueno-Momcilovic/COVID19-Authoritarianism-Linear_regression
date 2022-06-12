@@ -1,0 +1,1 @@
+& Country & CC & First Case & POP & CSP & EIU & FH & FI & VDEM & JHU & OWID11 & OWID12 \\ 

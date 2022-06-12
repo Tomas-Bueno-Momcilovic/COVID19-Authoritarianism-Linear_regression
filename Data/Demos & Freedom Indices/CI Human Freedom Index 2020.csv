@@ -1,0 +1,163 @@
+num,year,ISO_code,countries,region,hf_score,hf_rank
+0,2018,ALB,Albania,Eastern Europe,7.81,43
+11,2018,DZA,Algeria,Middle East & North Africa,5.2,154
+22,2018,AGO,Angola,Sub-Saharan Africa,5.48,144
+33,2018,ARG,Argentina,Latin America & the Caribbean,7.05,70
+44,2018,ARM,Armenia,Caucasus & Central Asia,7.69,47
+55,2018,AUS,Australia,Oceania,8.68,5
+66,2018,AUT,Austria,Western Europe,8.45,15
+77,2018,AZE,Azerbaijan,Caucasus & Central Asia,6.29,116
+88,2018,BHS,"Bahamas, The",Latin America & the Caribbean,7.72,45
+99,2018,BHR,Bahrain,Middle East & North Africa,6.18,123
+110,2018,BGD,Bangladesh,South Asia,5.67,139
+121,2018,BRD,Barbados,Latin America & the Caribbean,6.99,75
+132,2018,BLR,Belarus,Eastern Europe,6.67,99
+143,2018,BEL,Belgium,Western Europe,8.28,25
+154,2018,BLZ,Belize,Latin America & the Caribbean,6.92,80
+165,2018,BEN,Benin,Sub-Saharan Africa,6.81,90
+176,2018,BTN,Bhutan,South Asia,6.52,108
+187,2018,BOL,Bolivia,Latin America & the Caribbean,6.78,91
+198,2018,BIH,Bosnia and Herzegovina,Eastern Europe,7.34,59
+209,2018,BWA,Botswana,Sub-Saharan Africa,7.35,58
+220,2018,BRA,Brazil,Latin America & the Caribbean,6.83,88
+231,2018,BRN,Brunei Darussalam,South Asia,6.01,135
+242,2018,BGR,Bulgaria,Eastern Europe,7.93,37
+253,2018,BFA,Burkina Faso,Sub-Saharan Africa,6.6,102
+264,2018,BDI,Burundi,Sub-Saharan Africa,5.42,148
+275,2018,CPV,Cabo Verde,Sub-Saharan Africa,7.75,44
+286,2018,KHM,Cambodia,South Asia,6.83,88
+297,2018,CMR,Cameroon,Sub-Saharan Africa,5.46,145
+308,2018,CAN,Canada,North America,8.64,6
+319,2018,CAF,Central African Republic,Sub-Saharan Africa,5.25,153
+330,2018,TCD,Chad,Sub-Saharan Africa,5.59,141
+341,2018,CHL,Chile,Latin America & the Caribbean,8.18,30
+352,2018,CHN,China,East Asia,6.07,129
+363,2018,COL,Colombia,Latin America & the Caribbean,6.85,86
+374,2018,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,5.29,151
+385,2018,COG,"Congo, Rep.",Sub-Saharan Africa,5.51,143
+396,2018,CRI,Costa Rica,Latin America & the Caribbean,7.84,42
+407,2018,CIV,Cote d'Ivoire,Sub-Saharan Africa,6.51,109
+418,2018,HRV,Croatia,Eastern Europe,7.92,38
+429,2018,CYP,Cyprus,Eastern Europe,8.05,33
+440,2018,CZE,Czech Republic,Eastern Europe,8.29,24
+451,2018,DNK,Denmark,Western Europe,8.73,4
+462,2018,DOM,Dominican Republic,Latin America & the Caribbean,7.37,57
+473,2018,ECU,Ecuador,Latin America & the Caribbean,7.14,66
+484,2018,EGY,"Egypt, Arab Rep.",Middle East & North Africa,4.67,157
+495,2018,SLV,El Salvador,Latin America & the Caribbean,7.03,73
+506,2018,EST,Estonia,Eastern Europe,8.54,8
+517,2018,SWZ,Eswatini,Sub-Saharan Africa,6.02,134
+528,2018,ETH,Ethiopia,Sub-Saharan Africa,5.4,149
+539,2018,FJI,Fiji,Oceania,6.98,77
+550,2018,FIN,Finland,Western Europe,8.49,11
+561,2018,FRA,France,Western Europe,8.05,33
+572,2018,GAB,Gabon,Sub-Saharan Africa,6.14,127
+583,2018,GMB,"Gambia, The",Sub-Saharan Africa,6.27,119
+594,2018,GEO,Georgia,Caucasus & Central Asia,7.87,40
+605,2018,DEU,Germany,Western Europe,8.52,9
+616,2018,GHA,Ghana,Sub-Saharan Africa,7.04,72
+627,2018,GRC,Greece,Eastern Europe,7.38,56
+638,2018,GTM,Guatemala,Latin America & the Caribbean,7.21,63
+649,2018,GIN,Guinea,Sub-Saharan Africa,5.45,146
+660,2018,GNB,Guinea-Bissau,Sub-Saharan Africa,6.15,126
+671,2018,GUY,Guyana,Latin America & the Caribbean,7,74
+682,2018,HTI,Haiti,Latin America & the Caribbean,6.68,98
+693,2018,HND,Honduras,Latin America & the Caribbean,6.94,79
+704,2018,HKG,"Hong Kong SAR, China",East Asia,8.74,3
+715,2018,HUN,Hungary,Eastern Europe,7.61,49
+726,2018,ISL,Iceland,Western Europe,8.39,20
+737,2018,IND,India,South Asia,6.43,111
+748,2018,IDN,Indonesia,South Asia,7.07,68
+759,2018,IRN,"Iran, Islamic Rep.",Middle East & North Africa,4.53,158
+770,2018,IRQ,Iraq,Middle East & North Africa,4.9,155
+781,2018,IRL,Ireland,Western Europe,8.62,7
+792,2018,ISR,Israel,Middle East & North Africa,7.44,53
+803,2018,ITA,Italy,Western Europe,8.12,31
+814,2018,JAM,Jamaica,Latin America & the Caribbean,7.44,53
+825,2018,JPN,Japan,East Asia,8.49,11
+836,2018,JOR,Jordan,Middle East & North Africa,6.92,80
+847,2018,KAZ,Kazakhstan,Caucasus & Central Asia,6.99,75
+858,2018,KEN,Kenya,Sub-Saharan Africa,6.75,93
+869,2018,KOR,"Korea, Rep.",East Asia,8.27,26
+880,2018,KWT,Kuwait,Middle East & North Africa,6.39,113
+891,2018,KGZ,Kyrgyz Republic,Caucasus & Central Asia,7.05,70
+902,2018,LAO,Lao PDR,South Asia,6.16,125
+913,2018,LVA,Latvia,Eastern Europe,8.34,22
+924,2018,LBN,Lebanon,Middle East & North Africa,6.7,97
+935,2018,LSO,Lesotho,Sub-Saharan Africa,6.6,102
+946,2018,LBR,Liberia,Sub-Saharan Africa,6.4,112
+957,2018,LBY,Libya,Middle East & North Africa,4.83,156
+968,2018,LTU,Lithuania,Eastern Europe,8.37,21
+979,2018,LUX,Luxembourg,Western Europe,8.49,11
+990,2018,MDG,Madagascar,Sub-Saharan Africa,6.54,106
+1001,2018,MWI,Malawi,Sub-Saharan Africa,6.57,105
+1012,2018,MYS,Malaysia,South Asia,6.9,83
+1023,2018,MLI,Mali,Sub-Saharan Africa,5.92,137
+1034,2018,MLT,Malta,Western Europe,8.33,23
+1045,2018,MRT,Mauritania,Sub-Saharan Africa,5.39,150
+1056,2018,MUS,Mauritius,Sub-Saharan Africa,7.55,51
+1067,2018,MEX,Mexico,Latin America & the Caribbean,6.85,86
+1078,2018,MDA,Moldova,Eastern Europe,7.18,65
+1089,2018,MNG,Mongolia,East Asia,7.61,49
+1100,2018,MNE,Montenegro,Eastern Europe,7.46,52
+1111,2018,MAR,Morocco,Middle East & North Africa,6.28,117
+1122,2018,MOZ,Mozambique,Sub-Saharan Africa,6.64,101
+1133,2018,MMR,Myanmar,South Asia,5.45,146
+1144,2018,NAM,Namibia,Sub-Saharan Africa,6.92,80
+1155,2018,NPL,Nepal,South Asia,6.76,92
+1166,2018,NLD,Netherlands,Western Europe,8.48,14
+1177,2018,NZL,New Zealand,Oceania,8.87,1
+1188,2018,NIC,Nicaragua,Latin America & the Caribbean,6.54,106
+1199,2018,NER,Niger,Sub-Saharan Africa,5.97,136
+1210,2018,NGA,Nigeria,Sub-Saharan Africa,6.05,131
+1221,2018,MKD,North Macedonia,Eastern Europe,7.4,55
+1232,2018,NOR,Norway,Western Europe,8.45,15
+1243,2018,OMN,Oman,Middle East & North Africa,6.03,133
+1254,2018,PAK,Pakistan,South Asia,5.64,140
+1265,2018,PAN,Panama,Latin America & the Caribbean,7.87,40
+1276,2018,PNG,Papua New Guinea,Oceania,6.72,94
+1287,2018,PRY,Paraguay,Latin America & the Caribbean,7.19,64
+1298,2018,PER,Peru,Latin America & the Caribbean,7.68,48
+1309,2018,PHL,Philippines,South Asia,6.9,83
+1320,2018,POL,Poland,Eastern Europe,7.72,45
+1331,2018,PRT,Portugal,Western Europe,8.27,26
+1342,2018,QAT,Qatar,Middle East & North Africa,6.07,129
+1353,2018,ROU,Romania,Eastern Europe,8.09,32
+1364,2018,RUS,Russian Federation,Eastern Europe,6.31,115
+1375,2018,RWA,Rwanda,Sub-Saharan Africa,6.97,78
+1386,2018,SAU,Saudi Arabia,Middle East & North Africa,5.29,151
+1397,2018,SEN,Senegal,Sub-Saharan Africa,6.66,100
+1408,2018,SRB,Serbia,Eastern Europe,7.34,59
+1419,2018,SYC,Seychelles,Sub-Saharan Africa,7.34,59
+1430,2018,SLE,Sierra Leone,Sub-Saharan Africa,6.21,122
+1441,2018,SGP,Singapore,South Asia,8.21,28
+1452,2018,SVK,Slovak Republic,Eastern Europe,7.95,36
+1463,2018,SVN,Slovenia,Eastern Europe,8.05,33
+1474,2018,ZAF,South Africa,Sub-Saharan Africa,7.07,68
+1485,2018,ESP,Spain,Western Europe,8.2,29
+1496,2018,LKA,Sri Lanka,South Asia,6.72,94
+1507,2018,SDN,Sudan,Sub-Saharan Africa,4.01,161
+1518,2018,SUR,Suriname,Latin America & the Caribbean,7.31,62
+1529,2018,SWE,Sweden,Western Europe,8.52,9
+1540,2018,CHE,Switzerland,Western Europe,8.82,2
+1551,2018,SYR,Syrian Arab Republic,Middle East & North Africa,3.97,162
+1562,2018,TWN,Taiwan,East Asia,8.42,19
+1573,2018,TJK,Tajikistan,Caucasus & Central Asia,5.77,138
+1584,2018,TZA,Tanzania,Sub-Saharan Africa,6.28,117
+1595,2018,THA,Thailand,South Asia,6.37,114
+1606,2018,TLS,Timor-Leste,South Asia,6.89,85
+1617,2018,TGO,Togo,Sub-Saharan Africa,6.13,128
+1628,2018,TTO,Trinidad and Tobago,Latin America & the Caribbean,7.13,67
+1639,2018,TUN,Tunisia,Middle East & North Africa,6.04,132
+1650,2018,TUR,Turkey,Middle East & North Africa,6.27,119
+1661,2018,UGA,Uganda,Sub-Saharan Africa,6.58,104
+1672,2018,UKR,Ukraine,Eastern Europe,6.45,110
+1683,2018,ARE,United Arab Emirates,Middle East & North Africa,6.17,124
+1694,2018,GBR,United Kingdom,Western Europe,8.44,17
+1705,2018,USA,United States,North America,8.44,17
+1716,2018,URY,Uruguay,Latin America & the Caribbean,7.92,38
+1727,2018,VEN,"Venezuela, RB",Latin America & the Caribbean,4.08,160
+1738,2018,VNM,Vietnam,South Asia,6.25,121
+1749,2018,YEM,"Yemen, Rep.",Middle East & North Africa,4.17,159
+1760,2018,ZMB,Zambia,Sub-Saharan Africa,6.71,96
+1771,2018,ZWE,Zimbabwe,Sub-Saharan Africa,5.59,141

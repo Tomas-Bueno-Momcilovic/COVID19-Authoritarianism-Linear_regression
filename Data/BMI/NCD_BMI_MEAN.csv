@@ -1,0 +1,192 @@
+country,mean_bmi,year,ci_lower,ci_higher
+Afghanistan,23.4,2016,22,24.8
+Albania,26.7,2016,25.8,27.5
+Algeria,25.5,2016,24.5,26.5
+Andorra,26.7,2016,24.6,28.7
+Angola,23.3,2016,21.2,25.6
+Antigua and Barbuda,26.7,2016,24.6,28.8
+Argentina,27.7,2016,26.8,28.6
+Armenia,26.3,2016,25.8,26.9
+Australia,27.1,2016,26.6,27.6
+Austria,25.6,2016,24.3,26.8
+Azerbaijan,27.1,2016,26,28.1
+Bahamas,28,2016,25.9,30.1
+Bahrain,24.8,2016,23.7,25.8
+Bangladesh,21.7,2016,21.2,22.1
+Barbados,27.8,2016,27,28.6
+Belarus,26.6,2016,26.1,27.2
+Belgium,26.1,2016,25.6,26.6
+Belize,29.1,2016,27.9,30.2
+Benin,23.5,2016,22.8,24.3
+Bhutan,23.9,2016,23.3,24.5
+Bolivia (Plurinational State of),26.6,2016,25.5,27.6
+Bosnia and Herzegovina,25.8,2016,24.9,26.6
+Botswana,24.3,2016,23.7,24.9
+Brazil,26.6,2016,26.1,27
+Brunei Darussalam,27.2,2016,26.7,27.7
+Bulgaria,26.4,2016,25.3,27.6
+Burkina Faso,22.2,2016,21.6,22.7
+Burundi,21.7,2016,20.3,23.1
+Cabo Verde,24.5,2016,23.6,25.5
+Cambodia,22.2,2016,21.6,22.9
+Cameroon,24.3,2016,23.4,25.2
+Canada,26.9,2016,26.5,27.4
+Central African Republic,22.9,2016,21.6,24.2
+Chad,21.9,2016,20.9,22.9
+Chile,28,2016,27.2,28.7
+China,23.8,2016,23.5,24.2
+Colombia,26.2,2016,25.6,26.8
+Comoros,24.5,2016,23.8,25.1
+Congo,23.2,2016,22.1,24.3
+Cook Islands,32.9,2016,32.2,33.6
+Costa Rica,27.3,2016,26.7,27.9
+Côte d'Ivoire,23.8,2016,22.9,24.6
+Croatia,27.4,2016,26.6,28.2
+Cuba,25.6,2016,24.9,26.4
+Cyprus,26.8,2016,25.5,28.1
+Czechia,27.1,2016,26.3,27.9
+Democratic People's Republic of Korea,24.1,2016,21.8,26.4
+Democratic Republic of the Congo,22,2016,20.9,23
+Denmark,25.3,2016,24.7,25.9
+Djibouti,24,2016,21.9,26.1
+Dominica,27,2016,26,28.1
+Dominican Republic,26.5,2016,25.8,27.1
+Ecuador,27.3,2016,26.6,28
+Egypt,29.6,2016,29.2,30
+El Salvador,27.7,2016,26.6,28.8
+Equatorial Guinea,24,2016,22.6,25.6
+Eritrea,20.7,2016,19.9,21.5
+Estonia,26.4,2016,25.9,26.9
+Eswatini,26.8,2016,26.2,27.5
+Ethiopia,20.6,2016,19.8,21.3
+Fiji,27.7,2016,27,28.4
+Finland,25.9,2016,25.5,26.4
+France,25,2016,24.3,25.8
+Gabon,25.2,2016,24.2,26.3
+Gambia,24,2016,23.3,24.7
+Georgia,27.6,2016,27.1,28.1
+Germany,26.6,2016,25.9,27.2
+Ghana,23.9,2016,23.4,24.4
+Greece,27.1,2016,26.2,28.1
+Grenada,27,2016,26.2,27.8
+Guatemala,26.6,2016,25.7,27.4
+Guinea,22.9,2016,21.9,23.9
+Guinea-Bissau,23.4,2016,22,24.8
+Guyana,26.4,2016,25.5,27.4
+Haiti,25.3,2016,23.9,26.6
+Honduras,26.8,2016,25.7,27.8
+Hungary,27.3,2016,25.9,28.7
+Iceland,26.2,2016,25.5,27
+India,21.8,2016,21.4,22.2
+Indonesia,23.1,2016,22.7,23.6
+Iran (Islamic Republic of),26.1,2016,25.7,26.6
+Iraq,28.8,2016,28.2,29.3
+Ireland,27.5,2016,26.7,28.1
+Israel,27.3,2016,26.4,28.2
+Italy,25.6,2016,25.1,26.1
+Jamaica,27.8,2016,26.9,28.7
+Japan,22.7,2016,22.3,23
+Jordan,29,2016,28.6,29.4
+Kazakhstan,26.4,2016,25.7,27
+Kenya,23.3,2016,22.8,23.9
+Kiribati,30.1,2016,28.9,31.2
+Kuwait,29.6,2016,29,30.1
+Kyrgyzstan,26.6,2016,26,27.2
+Lao People's Democratic Republic,22.9,2016,22.3,23.6
+Latvia,26.7,2016,25.8,27.5
+Lebanon,27.6,2016,26.8,28.5
+Lesotho,24.9,2016,24.4,25.5
+Liberia,24.1,2016,23.5,24.7
+Libya,28.1,2016,27.2,28.9
+Lithuania,26.4,2016,25.4,27.5
+Luxembourg,26.3,2016,25.4,27.2
+Madagascar,21.3,2016,20.3,22.3
+Malawi,22.9,2016,22.2,23.5
+Malaysia,25.7,2016,25.3,26.1
+Maldives,25.5,2016,24.7,26.2
+Mali,23,2016,22,24
+Malta,27.1,2016,25.4,28.7
+Marshall Islands,29.6,2016,28.3,30.8
+Mauritania,24.9,2016,23.7,26.1
+Mauritius,25.2,2016,24.4,26
+Mexico,28,2016,27.6,28.3
+Micronesia (Federated States of),29.7,2016,28.7,30.6
+Mongolia,26.2,2016,25.6,26.8
+Montenegro,26.5,2016,24.9,28.2
+Morocco,26,2016,24.8,27
+Mozambique,22.8,2016,22.2,23.3
+Myanmar,22.6,2016,22.1,23.2
+Namibia,24.2,2016,23.4,25
+Nauru,32.5,2016,31.4,33.5
+Nepal,22.5,2016,22,23
+Netherlands,25.6,2016,24.9,26.2
+New Zealand,28,2016,27.8,28.3
+Nicaragua,27.2,2016,26.1,28.4
+Niger,21.8,2016,21,22.6
+Nigeria,23.2,2016,22.6,23.9
+Niue,32.4,2016,31.5,33.2
+Norway,26.7,2016,25.7,27.7
+Oman,26.3,2016,25.4,27.2
+Pakistan,23.9,2016,23.4,24.5
+Palau,29.5,2016,28.8,30.3
+Panama,26.9,2016,25.9,27.9
+Papua New Guinea,25.6,2016,24.6,26.7
+Paraguay,26.7,2016,24.5,28.9
+Peru,26.7,2016,26.3,27
+Philippines,23.2,2016,22.5,23.8
+Poland,26.7,2016,26.3,27.1
+Portugal,25.6,2016,24.9,26.4
+Qatar,29.2,2016,28.4,29.9
+Republic of Korea,23.8,2016,23.5,24
+Republic of Moldova,27,2016,26.3,27.7
+North Macedonia,26.8,2016,25.2,28.4
+Romania,26.9,2016,26.5,27.3
+Russian Federation,26.2,2016,25.6,26.8
+Rwanda,22.1,2016,21.6,22.5
+Saint Kitts and Nevis,29.5,2016,28.1,30.8
+Saint Lucia,30,2016,29.2,30.8
+Saint Vincent and the Grenadines,27.2,2016,25.2,29.3
+Samoa,32.2,2016,31.5,32.8
+Sao Tome and Principe,24.8,2016,24,25.6
+Saudi Arabia,28.5,2016,27.9,29
+Senegal,23,2016,22.2,23.7
+Serbia,26.1,2016,25.5,26.6
+Seychelles,26.7,2016,26.1,27.4
+Sierra Leone,22.7,2016,22.1,23.3
+Singapore,23.6,2016,23.1,24.2
+Slovakia,26.4,2016,25.8,27.1
+Slovenia,26.6,2016,25.1,28
+Solomon Islands,26.3,2016,25.8,26.9
+Somalia,23.2,2016,21.1,25.2
+South Africa,27.3,2016,26.8,27.7
+Spain,25.9,2016,25.4,26.4
+Sri Lanka,23.1,2016,22.6,23.7
+Sudan (former),24.7,2016,23.4,26
+Suriname,26.5,2016,25.4,27.6
+Sweden,26,2016,25.3,26.8
+Switzerland,25.2,2016,24.4,26
+Syrian Arab Republic,28.3,2016,27.1,29.4
+Tajikistan,26.1,2016,25.6,26.6
+Thailand,24.4,2016,23.7,25.2
+Timor-Leste,21.3,2016,20.8,21.9
+Togo,23.6,2016,22.9,24.3
+Tonga,32.2,2016,31.4,32.9
+Trinidad and Tobago,27.6,2016,26.2,28.9
+Tunisia,26.3,2016,25.4,27.2
+Turkey,27.9,2016,27.5,28.3
+Turkmenistan,26.6,2016,25.9,27.2
+Tuvalu,30.8,2016,28.9,32.6
+Uganda,22.5,2016,22,23
+Ukraine,26.6,2016,25,28.2
+United Arab Emirates,28.4,2016,27.2,29.7
+United Kingdom of Great Britain and Northern Ireland,27.1,2016,26.8,27.5
+United Republic of Tanzania,23.2,2016,22.7,23.7
+United States of America,28.9,2016,28.5,29.3
+Uruguay,27.4,2016,26.5,28.2
+Uzbekistan,26.9,2016,26.3,27.5
+Vanuatu,26.2,2016,25.4,26.9
+Venezuela (Bolivarian Republic of),26.7,2016,26.2,27.2
+Viet Nam,21.9,2016,21.5,22.3
+Yemen,23.8,2016,23.1,24.5
+Zambia,22.6,2016,21.7,23.4
+Zimbabwe,23.8,2016,23.3,24.3
