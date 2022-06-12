@@ -9,6 +9,7 @@ The project represents an implementation of a simple multiple regression model t
 
 #### Explanatory variables:
 used one at a time
+
 -CSP Revised Polity Score (Center for Systemic Peace, 2020)
 
 -EIU Democracy Index 2019 (Economist Intelligence Unit, 2020)
@@ -21,27 +22,42 @@ used one at a time
 
 #### Outcome variables:
 used one at a time
+
 -COVID-19 Crude Death Estimate (John Hopkins University, 2021)
+
 -Excess deaths for 11 months (Roser et al., 2021)
+
 -Excess deaths for 12 months (Roser et al., 2021)
 
 Control variables (see report):
+
 -Population-related
+
 -Geographic and economic
+
 -Health
+
 -Political
 
 #### Data used: 
 see report for all references
+
 -Center for Systemic Peace. (2018). Polity5: Regime Authority Characteristics and Transitions Datasets. Retrieved from https://www.systemicpeace.org/inscrdata.html
+
 -Coppedge, M., Gerring, J., Knutsen, C. H. et al. (2021). V-Dem Dataset v11
+
 Varieties of Democracy Project. DOI: https://doi.org/10.23696/vdems21
+
 -Economist Intelligence Unit. (2019). Democracy Index 2019. EIU. Retrieved from https://www.eiu.com/topic/democracy-index
+
 -Fraser Institute. (2020). Economic Freedom of the World: 2020 Annual Report. Fraser Institute. Retrieved from https://www.fraserinstitute.org/studies/economicfreedomof-the-world-2020-annual-report
+
 -Freedom House. (2020). Countries and Territories - Global Freedom Scores,
 Democracy Scores. Freedom House. Retrieved on 13th December 2020 from
 https://freedomhouse.org/countries/freedom-world/scores
+
 -John Hopkins University. (2020). COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Github. Retrieved on 12th December 2020 from https://github.com/CSSEGISandData/COVID19
+
 -Roser, M., Ritchie, H., Ortiz-Ospina, E. & Hasell, J. (2021). Excess mortality during the Coronavirus pandemic (COVID-19). Our World in Data. Retrieved on 9th March 2021 from https://ourworldindata.org/excess-mortality-covid
 
 
