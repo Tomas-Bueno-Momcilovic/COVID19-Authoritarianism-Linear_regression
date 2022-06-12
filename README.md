@@ -5,18 +5,22 @@ This is a replication package for the final project in the (POL63100) Quantitati
 
 The project represents an implementation of a simple multiple regression model that estimates the effectiveness of COVID-19 pandemic response based on crude death rate, calculated from the reported COVID-19 deaths and the measure of excess deaths during the March 2020 - February 2021 period. Multiple explanatory and outcome variables were used to estimate the effect found by using different estimates of crude death (i.e. outcome variables) and different indices of political authoritarianism (i.e. explanatory variables).
 
-#### VARIABLES ####
+## VARIABLES
 
-Explanatory variables:
-## used one at a time
+#### Explanatory variables:
+used one at a time
 -CSP Revised Polity Score (Center for Systemic Peace, 2020)
+
 -EIU Democracy Index 2019 (Economist Intelligence Unit, 2020)
+
 -FH Democracy Index 2020 (Freedom House, 2021)
+
 -FI Economic Freedom Index 2018 (Fraser Institute, 2018)
+
 -VDEM Regime Classification (Varieties of Democracy Institute, 2021)
 
-Outcome variables:
-## used one at a time
+#### Outcome variables:
+used one at a time
 -COVID-19 Crude Death Estimate (John Hopkins University, 2021)
 -Excess deaths for 11 months (Roser et al., 2021)
 -Excess deaths for 12 months (Roser et al., 2021)
@@ -27,8 +31,8 @@ Control variables (see report):
 -Health
 -Political
 
-Data used: 
-## see report for all references
+#### Data used: 
+see report for all references
 -Center for Systemic Peace. (2018). Polity5: Regime Authority Characteristics and Transitions Datasets. Retrieved from https://www.systemicpeace.org/inscrdata.html
 -Coppedge, M., Gerring, J., Knutsen, C. H. et al. (2021). V-Dem Dataset v11
 Varieties of Democracy Project. DOI: https://doi.org/10.23696/vdems21
